@@ -35,9 +35,10 @@ Asimismo, se estima que el **costo global del cibercrimen alcanzará los 10,5 bi
 - Identificación de software malicioso mediante **firmas**, **anomalías** o **heurística**.  
 - **Tendencia 2025:** proliferación del modelo *Malware-as-a-Service (MaaS)*, con herramientas como *Lumma* y *RedLine*, responsables de robar más de **3 millones de credenciales por día** (NTT DATA, 2025).
 
+### 7. Testing de Propiedades de Seguridad
+- Verificación de la implementación correcta de **protocolos criptográficos**.
+
 📚 **Referencia**
 
 NTT DATA (2025). *Cyber Threat Intelligence Trends Report: Primer semestre 2025*. Departamento de Cyber Threat Intelligence, NTT DATA Cybersecurity.  
 Disponible en: [https://www.nttdata.com](https://www.nttdata.com)
-### 7. Testing de Propiedades de Seguridad
-- Verificación de la implementación correcta de **protocolos criptográficos**.
